@@ -27,7 +27,7 @@ class HumanBF:
     def completeName(self):
         return f"{self.Prenom} {self.Nom}"
     
-    #This allows to print informations
+    #This allows to print information
     def Affichage(self):
         print(f"ID   :{self.id}")
         print(f"Name   :{self.completeName}")
