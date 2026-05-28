@@ -8,7 +8,7 @@ class HumanBF:
         self.Email=email
     
     
-    def get_id(self):
+    def get_Id(self):
         return self.id
     
     def get_Nom(self):
